@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-## 1. mechanics & rheology of granular materials
+## mechanics & rheology of granular materials
 
 Granular materials are ubiquitously found in nature and industry, being only the second most widely material in industry after water. Their occurence in nature ranges from sand and soil to large-scale geophysical phenomena such as earthquakes and landslides. Despite being compositionally very simple consisiting of hard frictional particles, these materials can deform in remarkably complex ways to applied stresses, often exhibiting both solid- and fluid-like characteristics. Currently, there is a lack of a well-defined theoretical foundation that can describe all their states of existence, and critically, the transitions between these states. My research has focused on bridging this gap by using discrete element simulations to both highlight particle-scale phenomena and provide continuum predictions of their mechanics and rheology, especially their transition between solid- and fluid-like states upon external stressing.
 
@@ -47,7 +47,7 @@ Other publications:
 
 [Srivastava et al., *arXiv:1912.04491*](https://arxiv.org/abs/1912.04491)
 
-## 2. mesostructural analysis of lithium-ion battery electrodes
+## mesostructural analysis of lithium-ion battery electrodes
 
 Lithium-ion battery cathodes typically contain four phases: (1) micron-sized active material particles (such as nickel-manganese-cobalt oxides); (2) electron-conducting carbon nanoparticles; (3) polymeric binders; and (4) ion-conducting electrolytes. Identifying the toplogical arrangements of these phases in real electrodes is experimentally challenging, but is crucial for battery performance. Using large-scale (~10 million particles) coarse-grained colloidal and granular numerical methods, we simulate the mesostructural evolution of electrodes during manufacturing, and correlate with their electrochemical performance. We highlight the complex transport within these highly heterogeneous electrode mesostructures, and provide predictions for improving electrode performance through the optimization of material properties. Ref: [Srivastava et al., *ACS Appl. Mater. Interfaces*, (2020)](https://pubs.acs.org/doi/10.1021/acsami.0c08251). 
 
@@ -64,7 +64,7 @@ Other Publications:
 
 [Srivastava et al., *J. Heat Transfer*, 135 (2013)](https://asmedigitalcollection.asme.org/heattransfer/article-abstract/135/6/061603/367161)
 
-## 3. mechanics of nanoparticle superlattices
+## mechanics of nanoparticle superlattices
 
 Polymer-grafted metallic nanoparticles readily self-assemble into three-dimensional superlattices with long-ranged order. These materials have important applications in photonics, plasmonics and catalysis. Furthermore, it was recently shown that such three-dimensional superlattices can be readily transformed into low-dimensional ordered nanostructures (such as nanowires and nanosheets) by applying large stresses, thus providing a well-controlled nanostructure fabrication method. The mechanics of such transformations, however, is not entirely understood. Using large-scale atomic simulations, we predict the mechanics of alkanethiol-grafted gold nanoparticle superlattices under high external pressure up to 15GPa. Unexpected phenomena such as void collapse and nanoparticle sintering were observed that challenge current theoretical models. Future work includes understanding the role of temperature, nanoparticle size and solvent properties on these phenomena. Ref: [Srivastava et al., *J. Phys. Chem. C*, 123 (2019)](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b02438)
 
