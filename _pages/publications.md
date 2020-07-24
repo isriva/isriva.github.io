@@ -12,6 +12,8 @@ nav: true
 
 - **Srivastava, I.**, Silbert, L. E., Grest, G. S., & Lechman, J. B., Viscometric flow of dense granular materials under controlled pressure and shear stress, [arXiv:1912.04491](https://arxiv.org/abs/1912.04491)
 
+- Santos, A. P., Bolintineanu, D. S., Grest, G. S., Lechman, J. B., Plimpton, S. J., **Srivastava, I.**, & Silbert, L. E., Granular packings with sliding, rolling and twisting friction, [arXiv:2007.10860](https://arxiv.org/abs/2007.10860)
+
 ### 2020
 
 - **Srivastava, I.**, Bolintineanu, D. S., Lechman, J. B., & Roberts, S. A., Controlling binder adhesion to impact electrode mesostructure and transport, *ACS Appl. Mater. Interfaces* (2020) [link](https://pubs.acs.org/doi/10.1021/acsami.0c08251) (**featured as a Cover Article**)
