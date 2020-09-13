@@ -16,7 +16,7 @@ nav: true
 
 ### Experience
 
-- Applied Math Postdoctoral Fellow, [*Center for Computational Science and Engineering*](https://ccse.lbl.gov/index.html), [**Lawrence Berkeley National Lab**](https://www.lbl.gov) (2020 - present) 
+- Applied Math Postdoctoral Scholar, [*Center for Computational Science and Engineering*](https://ccse.lbl.gov/index.html), [**Lawrence Berkeley National Lab**](https://www.lbl.gov) (2020 - present) 
 
 - Postdoctoral Appointee, [*Center for Integrated Nanotechnologies*](https://cint.lanl.gov), [**Sandia National Labs**](https://www.sandia.gov) (2017 - 2020)
 
@@ -26,15 +26,17 @@ nav: true
 
 ### Professional Activities
 
+- Conference co-chair, [GRC Connects: Granular Matter](https://www.grc.org/grc-connects-granular-matter/), September 1 2020
+
 - Early career representative, [Topical Group on Statistical & Nonlinear Physics](https://www.aps.org/units/gsnp/), American Physical Society (2020 - present)
 
-- Conference Chair, [Gordon Research Seminar on Granular Matter](https://www.grc.org/granular-matter-grs-conference/2020/), June 2020, Easton MA (rescheduled for 2022 due to Covid-19))
+- Conference co-chair, [Gordon Research Seminar on Granular Matter](https://www.grc.org/granular-matter-grs-conference/2020/), June 2020, Easton MA (rescheduled for 2022 due to Covid-19))
 
-- Discussion Leader, [Gordon Research Seminar on Batteries](https://www.grc.org/batteries-grs-conference/2020/), February 2020, Ventura CA
+- Discussion leader, [Gordon Research Seminar on Batteries](https://www.grc.org/batteries-grs-conference/2020/), February 2020, Ventura CA
 
-- Discussion Leader, [Gordon Research Seminar on Granular Matter](https://www.grc.org/granular-matter-grs-conference/2018/), July 2018, Easton MA
+- Discussion leader, [Gordon Research Seminar on Granular Matter](https://www.grc.org/granular-matter-grs-conference/2018/), July 2018, Easton MA
 
-- Ad-hoc Journal Referee: Physical Review Letters, Physical Review E, Granular Matter, Soft Matter, Journal of Electrochemical Society, Computational Materials Science, Journal of Physical Chemistry, Joule
+- Ad-hoc journal referee: Physical Review Letters, Physical Review E, Granular Matter, Soft Matter, Journal of Electrochemical Society, Computational Materials Science, Journal of Physical Chemistry, Joule
 
 ### Teaching Experience
 

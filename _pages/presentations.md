@@ -6,9 +6,11 @@ description:
 nav: true
 ---
 
-### invited lectures
+### invited talks
 
-- Lawrence Berkeley National Lab (Berkeley, CA), Center for Computational Science and Engineering, "Flow-Arrest Transition in Granular Materials," March 6, 2020 (delivered online)
+- San Jose State University (San Jose, CA), Department of Physics and Astronomy, "Flow-Arrest Transition in (Frictional) Granular Materials," September 10, 2020 (online)
+
+- Lawrence Berkeley National Lab (Berkeley, CA), Center for Computational Science and Engineering, "Flow-Arrest Transition in Granular Materials," March 6, 2020 (online)
 
 - Tohoku University (Sendai, Japan), Workshop on Non-Gaussian Fluctuations in Jammed Matter, “Statistics and Rheology at Non-Equilibrium Transitions in Granular Materials,” March 2020 (canceled due to COVID-19)
 
