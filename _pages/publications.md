@@ -8,11 +8,10 @@ nav: true
 
 [google scholar](https://scholar.google.com/citations?user=xMoHbtIAAAAJ)
 
-### in review
-
-- **Srivastava, I.**, Silbert, L. E., Grest, G. S., & Lechman, J. B., Viscometric flow of dense granular materials under controlled pressure and shear stress, [arXiv:1912.04491](https://arxiv.org/abs/1912.04491)
 
 ### 2020
+
+- **Srivastava, I.**, Silbert, L. E., Grest, G. S., & Lechman, J. B., Viscometric flow of dense granular materials under controlled pressure and shear stress, ***Journal of Fluid Mechanics***, (*accepted for publication*) [arXiv link](https://arxiv.org/abs/1912.04491)
 
 - Santos, A. P., Bolintineanu, D. S., Grest, G. S., Lechman, J. B., Plimpton, S. J., **Srivastava, I.**, & Silbert, L. E., Granular packings with sliding, rolling and twisting friction, ***Physical Review E***, 102 (2020) [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032903)
 
