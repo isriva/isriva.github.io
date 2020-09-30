@@ -8,6 +8,8 @@ nav: true
 
 ### invited talks
 
+- Society of Engineering Sciences (Virtual), "Continuum Rheology of Granular Materials at the Flow-Arrest Transition," September 30, 2020 (online) 
+
 - San Jose State University (San Jose, CA), Department of Physics and Astronomy, "Flow-Arrest Transition in (Frictional) Granular Materials," September 10, 2020 (online)
 
 - Lawrence Berkeley National Lab (Berkeley, CA), Center for Computational Science and Engineering, "Flow-Arrest Transition in Granular Materials," March 6, 2020 (online)
