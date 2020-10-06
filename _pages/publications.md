@@ -15,7 +15,7 @@ nav: true
 
 - Santos, A. P., Bolintineanu, D. S., Grest, G. S., Lechman, J. B., Plimpton, S. J., **Srivastava, I.**, & Silbert, L. E., Granular packings with sliding, rolling and twisting friction, ***Physical Review E***, 102 (2020) [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032903)
 
-- **Srivastava, I.**, Bolintineanu, D. S., Lechman, J. B., & Roberts, S. A., Controlling binder adhesion to impact electrode mesostructure and transport, ***ACS Applied Materials and Interfaces*** (2020) [link](https://pubs.acs.org/doi/10.1021/acsami.0c08251) (**featured as a Cover Article**)
+- **Srivastava, I.**, Bolintineanu, D. S., Lechman, J. B., & Roberts, S. A., Controlling binder adhesion to impact electrode mesostructure and transport, ***ACS Applied Materials and Interfaces*** (2020) [link](https://pubs.acs.org/doi/10.1021/acsami.0c08251) (**featured as a Supplemental Cover Article**)
 
 - **Srivastava, I.**, Lechman, J. B., Grest, G. S., & Silbert, L. E., Evolution of internal granular structure at the flow-arrest transition, ***Granular Matter***, 22, 41 (2020) [link](https://link.springer.com/article/10.1007/s10035-020-1003-6)
 
@@ -35,6 +35,8 @@ nav: true
 - Lane, J. M. D., Salerno, K. M., **Srivastava, I.**, Grest, G. S., & Fan, H., Modeling pressure-driven assembly of polymer coated nanoparticles, ***AIP Conference Proceedings***, 1979 (2018) [link](https://aip.scitation.org/doi/abs/10.1063/1.5044864)
 
 ### 2017
+
+- **Srivastava, I.**, Rheology, Mechanics and Transport in Granular Materials: A Versatile Computational Framework [link](https://docs.lib.purdue.edu/dissertations/AAI10274417/)
 
 - **Srivastava, I.**, & Fisher, T. S., Slow creep in soft granular packings, ***Soft Matter***, 13 (2017) [link](https://doi.org/10.1039/C7SM00237H)
 
