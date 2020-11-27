@@ -30,6 +30,8 @@ nav: true
 
 ### contributed talks/posters
 
+- "Rheology of Dense Granular Flows near the Flow-Arrest Transition," APS Divsion of Fluid Dynamics Annual Meeting, November 2020
+
 - “Connections between Bulk Rheology and Fabric of Dense Granular Flows at the Flow-Arrest Transition,’’ Society of Rheology Annual Meeting, Raleigh NC, October 2019
 
 - “Discrete Element Simulations of Li-ion Electrodes using Brownian and Granular Dynamics,’’ LAMMPS Workshop and Symposium, Albuquerque NM, August 2019

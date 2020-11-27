@@ -43,9 +43,9 @@ We developed a contact mechanics model for non-spherical faceted particle intera
 
 Other publications:
 
-[Srivastava et al., *Granular Matter*, 22, 41 (2020)](https://link.springer.com/article/10.1007/s10035-020-1003-6)
+[Srivastava et al., *Journal of Fluid Mechanics*, 907, A18 (2021)](https://doi.org/10.1017/jfm.2020.811)
 
-[Srivastava et al., *arXiv:1912.04491*](https://arxiv.org/abs/1912.04491)
+[Srivastava et al., *Granular Matter*, 22, 41 (2020)](https://link.springer.com/article/10.1007/s10035-020-1003-6)
 
 ## mesostructural analysis of lithium-ion battery electrodes
 

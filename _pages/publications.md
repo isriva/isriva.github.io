@@ -11,13 +11,13 @@ nav: true
 
 ### 2020
 
-- **Srivastava, I.**, Silbert, L. E., Grest, G. S., & Lechman, J. B., Viscometric flow of dense granular materials under controlled pressure and shear stress, ***Journal of Fluid Mechanics***, (*accepted for publication*) [arXiv link](https://arxiv.org/abs/1912.04491)
+- **Srivastava, I.**, Silbert, L. E., Grest, G. S., & Lechman, J. B., Viscometric flow of dense granular materials under controlled pressure and shear stress, ***Journal of Fluid Mechanics***, 907 (2021) [link](https://doi.org/10.1017/jfm.2020.811)
 
 - Santos, A. P., Bolintineanu, D. S., Grest, G. S., Lechman, J. B., Plimpton, S. J., **Srivastava, I.**, & Silbert, L. E., Granular packings with sliding, rolling and twisting friction, ***Physical Review E***, 102 (2020) [link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.032903)
 
-- **Srivastava, I.**, Bolintineanu, D. S., Lechman, J. B., & Roberts, S. A., Controlling binder adhesion to impact electrode mesostructure and transport, ***ACS Applied Materials and Interfaces*** (2020) [link](https://pubs.acs.org/doi/10.1021/acsami.0c08251) (**featured as a Supplemental Cover Article**)
+- **Srivastava, I.**, Bolintineanu, D. S., Lechman, J. B., & Roberts, S. A., Controlling binder adhesion to impact electrode mesostructure and transport, ***ACS Applied Materials and Interfaces***, 12 (2020) [link](https://pubs.acs.org/doi/10.1021/acsami.0c08251) (**featured as a Supplemental Cover Article**)
 
-- **Srivastava, I.**, Lechman, J. B., Grest, G. S., & Silbert, L. E., Evolution of internal granular structure at the flow-arrest transition, ***Granular Matter***, 22, 41 (2020) [link](https://link.springer.com/article/10.1007/s10035-020-1003-6)
+- **Srivastava, I.**, Lechman, J. B., Grest, G. S., & Silbert, L. E., Evolution of internal granular structure at the flow-arrest transition, ***Granular Matter***, 22 (2020) [link](https://link.springer.com/article/10.1007/s10035-020-1003-6)
 
 ### 2019
 

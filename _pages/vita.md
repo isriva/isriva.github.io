@@ -38,7 +38,9 @@ nav: true
 
 - Discussion leader, [Gordon Research Seminar on Granular Matter](https://www.grc.org/granular-matter-grs-conference/2018/), July 2018, Easton MA
 
-- Ad-hoc journal referee: Physical Review Letters, Physical Review E, Granular Matter, Soft Matter, Journal of Electrochemical Society, Computational Materials Science, Journal of Physical Chemistry, Joule, Journal of Applied Mechanics
+- Proposal reviewer, U.S. Department of Energy - Small Business Innovation Research (SBIR), Office of Advanced Scientific Computing Research, Novemeber 2020
+
+- Ad-hoc journal referee: Physical Review Letters, Physical Review E, Physical Review Research, Granular Matter, Soft Matter, Journal of Electrochemical Society, Computational Materials Science, Journal of Physical Chemistry, Joule, Journal of Applied Mechanics
 
 ### Teaching Experience
 
